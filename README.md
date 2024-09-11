@@ -9,9 +9,8 @@ Durant aquest curs treballarem amb les següents tecnologies:
 - Python (3.8 o superior)
 - Jupyter Notebook
 - Una combinació de: Numpy + Scikit + Matplotlib
-- TensorFlow: Depèn del _Hardware_ del qual disposeu haureu d'instal·lar diferents versions: 
-  - Guía GPU [enllaç](https://www.tensorflow.org/install/)
-  - Paquet CPU [enllaç](https://pypi.org/project/tensorflow-cpu/)
+- Pytorch: Depèn del _Hardware_ del qual disposeu haureu d'instal·lar diferents versions. (Guia)[https://pytorch.org/get-started/locally/]
+  
   
 ## Resum de les pràctiques
 
