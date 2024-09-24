@@ -14,4 +14,5 @@ Durant aquest curs treballarem amb les següents tecnologies:
   
 ## Resum de les pràctiques
 
-Cada sessió de pràctiques penjarem un resum del que 
+
+1. **SVM Lineal**: Comparem els classificadors lineals tipus _perceptron_ amb una SVM Lineal.
