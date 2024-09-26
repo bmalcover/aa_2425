@@ -17,12 +17,14 @@ scaler = StandardScaler()
 X_transformed = scaler.fit_transform(X)
 
 # Entrenam un perceptron
-perceptron = Adaline(eta=0.0005, n_iter=60)
+perceptron = Adaline(eta=0.5, n_iter=60)
 perceptron.fit(X_transformed, y)
 y_prediction = perceptron.predict(X)
 
 
 # TODO: Entrenam una SVM linear (classe SVC)
+svm = SVC(C=10.0, kernel='linear')
+svm.fit(X_transformed, y)
 
 
 # Mostrar resultats
