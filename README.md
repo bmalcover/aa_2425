@@ -17,3 +17,4 @@ Durant aquest curs treballarem amb les següents tecnologies:
 
 1. **SVM Lineal**: Comparem els classificadors lineals tipus _perceptron_ amb una SVM Lineal.
 2. **SVM Kernels**: Implementem els nostres propis kernels i observam com canvien les fronteres de decisió.
+3. **Pràctica SVM**: Enunciat de la primera pràctica.
