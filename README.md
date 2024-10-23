@@ -18,5 +18,6 @@ Durant aquest curs treballarem amb les següents tecnologies:
 1. **SVM Lineal**: Comparem els classificadors lineals tipus _perceptron_ amb una SVM Lineal.
 2. **SVM Kernels**: Implementem els nostres propis kernels i observam com canvien les fronteres de decisió.
 3. **Pràctica SVM**: Enunciat de la primera pràctica.
-4. **Introducció Pytorch**: Feim el nostre primer MLP per solventar problemes de reressió.
+4. **Introducció Pytorch**: Fem el nostre primer MLP per solventar problemes de reressió.
 5. **MLP Classificació**: Utilitzam MLP per solventar un problema de classificació.
+6  **Introducció CNN**: Seguim amb el mateix problema, ara amb CNN
