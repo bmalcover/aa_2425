@@ -20,4 +20,5 @@ Durant aquest curs treballarem amb les següents tecnologies:
 3. **Pràctica SVM**: Enunciat de la primera pràctica.
 4. **Introducció Pytorch**: Fem el nostre primer MLP per solventar problemes de reressió.
 5. **MLP Classificació**: Utilitzam MLP per solventar un problema de classificació.
-6  **Introducció CNN**: Seguim amb el mateix problema, ara amb CNN
+6. **Introducció CNN**: Seguim amb el mateix problema, ara amb CNN.
+7. **CNN multiclass**: Un nou problema i nou model.
