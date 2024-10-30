@@ -22,3 +22,4 @@ Durant aquest curs treballarem amb les següents tecnologies:
 5. **MLP Classificació**: Utilitzam MLP per solventar un problema de classificació.
 6. **Introducció CNN**: Seguim amb el mateix problema, ara amb CNN.
 7. **CNN multiclass**: Un nou problema i nou model.
+8. **AlexNet i Transfer**: La primera xarxa útil i una nova tècnica per resoldre problemes.
