@@ -23,3 +23,4 @@ Durant aquest curs treballarem amb les següents tecnologies:
 6. **Introducció CNN**: Seguim amb el mateix problema, ara amb CNN.
 7. **CNN multiclass**: Un nou problema i nou model.
 8. **AlexNet i Transfer**: La primera xarxa útil i una nova tècnica per resoldre problemes.
+9. **VGG i ResNet**: Ens situem a l'any 2015 per explicar dos dels models més rellevants.
