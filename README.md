@@ -24,3 +24,4 @@ Durant aquest curs treballarem amb les següents tecnologies:
 7. **CNN multiclass**: Un nou problema i nou model.
 8. **AlexNet i Transfer**: La primera xarxa útil i una nova tècnica per resoldre problemes.
 9. **VGG i ResNet**: Ens situem a l'any 2015 per explicar dos dels models més rellevants.
+10. **VGG i dataset personalitzat**: Començam a emprar VGGs amb un conjunt de dades que ja coneixem i el llegim diferent.
