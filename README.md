@@ -27,3 +27,4 @@ Durant aquest curs treballarem amb les següents tecnologies:
 10. **VGG i dataset personalitzat**: Començam a emprar VGGs amb un conjunt de dades que ja coneixem i el llegim diferent.
 11. **ResNet**: Empram blocs residual d'una forma heteròdoxa.
 12. **Segmentació**: Unet i Mask R-CNN. 
+13. **UNET**: Pràcticam amb la Unet i un problema simple.
