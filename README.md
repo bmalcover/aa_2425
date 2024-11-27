@@ -26,5 +26,6 @@ Durant aquest curs treballarem amb les següents tecnologies:
 9. **VGG i ResNet**: Ens situem a l'any 2015 per explicar dos dels models més rellevants.
 10. **VGG i dataset personalitzat**: Començam a emprar VGGs amb un conjunt de dades que ja coneixem i el llegim diferent.
 11. **ResNet**: Empram blocs residual d'una forma heteròdoxa.
-12. **Segmentació**: Unet i Mask R-CNN. 
+12. **Segmentació**: Unet.
 13. **UNET**: Pràcticam amb la Unet i un problema simple.
+14. **Mask R-CNN i YOLO**: Seguim amb la segmentació.
