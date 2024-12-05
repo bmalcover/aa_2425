@@ -29,3 +29,6 @@ Durant aquest curs treballarem amb les següents tecnologies:
 12. **Segmentació**: Unet.
 13. **UNET**: Pràcticam amb la Unet i un problema simple.
 14. **Mask R-CNN i YOLO**: Seguim amb la segmentació.
+15. **Mask R-CNN**: Exercici pràctica amb Mask R-CNN.
+16. **SAM**: Introducció a SAM by Meta.
+17. **Segmentació des de zero**: Que feim quan no tenim res.
